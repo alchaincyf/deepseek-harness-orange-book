@@ -117,6 +117,7 @@
 |------|------|------|
 | DeepSeek Harness Desktop | 为DSH生态做的桌面端，把Harness装进图形界面里跑。 | [GitHub](https://github.com/anywhere-labs/deepseek-harness-desktop) · [官网](https://dshdesktop.cn) |
 | Awesome DeepSeek Harness | DSH终极指南：快速入门、资源推荐、精选插件与工具，中英日三语。 | [GitHub](https://github.com/libukai/awesome-deepseek-harness) |
+| OrcaPromptVault | 跨产品的系统提示词与工具 schema 归档，其中 dsh 那份是另一台机器上的独立实抓，带日期与复现命令，可与本书第一章的提示词互相核对。 | [GitHub](https://github.com/Continuum-AI-Corp/OrcaPromptVault) |
 
 ## 关于作者
 
