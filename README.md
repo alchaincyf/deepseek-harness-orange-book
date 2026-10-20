@@ -6,11 +6,13 @@
 
 # DeepSeek Harness：从开机到拆开
 
-> 橙皮书系列 · 花叔 著 · v260814（2026年8月14日）
+> 橙皮书系列 · 花叔 著 · v261020（2026年10月20日）· 首版v260814（2026年8月14日）
 
 一个不写代码的人，把一个刚出厂24小时的agent框架装在自己机器上跑穿了。这本书记录它此刻的样子。
 
 2026年8月13日，DeepSeek开源了agent框架Harness（MIT协议，发布当天开源）。官方发布稿的主语从头到尾是「它」——它怎么造的、它是什么架构。而这本书把主语换回「我」：我装上之后第一件事干什么、会不会花我的钱、会不会动我硬盘上别的文件。
+
+**10月更新（v261020）**：基于DeepSeek Harness 0.2.1-rc.2（2026-10-17，预览版）在全新隔离目录里从零重装、重测，新增21张实测截图；「造工具」实验重做，10月它把新工具写成插件包、审批安装、重启后仍在（8月那次活不过重启）。全书没标月份的是10月状态，8月内容标「8月」作对照，8月版的几处错误集中写进「给微信读书读者的话」。
 
 ## 🎬 15秒发布动画
 
@@ -51,9 +53,9 @@
 
 | 格式 | 文件 | 大小 |
 |------|------|------|
-| PDF | [**DeepSeek-Harness-Orange-Book-zh-v260814.pdf**](DeepSeek-Harness-Orange-Book-zh-v260814.pdf) | 13MB |
-| EPUB（微信读书优化版） | [**DeepSeek-Harness-Orange-Book-zh-v260814.epub**](DeepSeek-Harness-Orange-Book-zh-v260814.epub) | 5.4MB |
-| HTML（单文件，图片已内联） | [**DeepSeek-Harness-Orange-Book-zh-v260814.html**](DeepSeek-Harness-Orange-Book-zh-v260814.html) | 4.9MB |
+| PDF | [**DeepSeek-Harness-Orange-Book-zh-v261020.pdf**](DeepSeek-Harness-Orange-Book-zh-v261020.pdf) | 15.2MB |
+| EPUB（微信读书优化版） | [**DeepSeek-Harness-Orange-Book-zh-v261020.epub**](DeepSeek-Harness-Orange-Book-zh-v261020.epub) | 7.4MB |
+| HTML（单文件，图片已内联） | [**DeepSeek-Harness-Orange-Book-zh-v261020.html**](DeepSeek-Harness-Orange-Book-zh-v261020.html) | 7.7MB |
 
 > 💡 PDF建议下载后阅读，GitHub在线预览可能无法完整渲染。
 
@@ -133,7 +135,11 @@
 
 ## English summary
 
-**DeepSeek Harness: From First Boot to Teardown** (Chinese edition) — written within 24 hours of DeepSeek open-sourcing its agent harness (Aug 13, 2026, MIT license). The author — who has never hand-written a line of code — ran it end to end on his own machine and documented what the official docs don't show: the full system prompt, the 129-line default boot manifest, three unedited session logs, and a live recording of the AI building a new tool for itself (19 steps, tool list going from 32 to 33 lines). Chinese only for now.
+**DeepSeek Harness: From First Boot to Teardown** (Chinese edition) — written within 24 hours of DeepSeek open-sourcing its agent harness (Aug 13, 2026, MIT license). The author — who has never hand-written a line of code — ran it end to end on his own machine and documented what the official docs don't show: the full system prompt, the 129-line default boot manifest, three unedited session logs, and a live recording of the AI building a new tool for itself (19 steps, tool list going from 32 to 33 lines). Updated on Oct 20, 2026 (v261020) against 0.2.1-rc.2 with 21 new screenshots. Chinese only for now.
+
+## 关注花叔
+
+<p align="center"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/follow.svg" width="720" alt="关注花叔：公众号「花叔」、B站「花叔v」、小红书「花叔」" /></p>
 
 ## 📚 在线阅读（WorkBuddy）
 
